@@ -20,4 +20,5 @@
 - `ps -ef | grep java`
 - Find the pid of the process (second one from the left)
 - `sudo kill -9 <pid>`
+
 **Setting Up a Bots-Only Server**
