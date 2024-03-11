@@ -16,6 +16,7 @@
 ### Tips and Tricks for JSettlers
 **Running JSettlers**
 - Requires downloading [JDK](https://jdk.java.net/) or [JRE](https://www.java.com/en/download/), then downloading the JAR from the JSettlers repository or Developer Page.
+
 **Closing out of the Server (on Mac)**
 - `ps -ef | grep java`
 - Find the pid of the process (second one from the left)
